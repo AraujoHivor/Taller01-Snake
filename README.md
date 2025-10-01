@@ -17,29 +17,29 @@ El flujo fue el siguiente:
 - ![Push inicial del líder](capturas/liderpush.png)  
 2. *Integrante 1:* realizó su push → conflicto detectado.  
    - 📸 Captura: Error de conflicto en push
-   - [Push inicial del Integrante|1](capturas/integrante11.jpeg)  
+   - ![Push inicial del Integrante|1](capturas/integrante11.jpeg)  
    - Usó git pull origin main para traer la versión remota.  
    - Resolución manual de conflictos (eliminando >>>>, ====, <<<<).  
    - Nuevo commit + push exitoso.  
    - 📸 Captura: Push corregido (Integrante 1)
-   - [Push final del Integrante 1](capturas/integrante12.jpeg)    
+   - ![Push final del Integrante 1](capturas/integrante12.jpeg)    
 
 3.*Integrante 2:* realizó su push → conflicto detectado.  
    - 📸 Captura: Error de conflicto en push
-   - [Push inicial del Integrante|2](capturas/integrante21.jpeg)  
+   - ![Push inicial del Integrante|2](capturas/integrante21.jpeg)  
    - Usó git pull origin main para traer la versión remota.  
    - Resolución manual de conflictos (eliminando >>>>, ====, <<<<).  
    - Nuevo commit + push exitoso.  
    - 📸 Captura: Push corregido (Integrante 2)
-   - [Push final del Integrante 2](capturas/integrante22.jpeg)  
+   - ![Push final del Integrante 2](capturas/integrante22.jpeg)  
 *Integrante 3:* realizó su push → conflicto detectado.  
    - 📸 Captura: Error de conflicto en push
-   - [Push inicial del Integrante|3](capturas/integrante31.jpeg)  
+   - ![Push inicial del Integrante|3](capturas/integrante31.jpeg)  
    - Usó git pull origin main para traer la versión remota.  
    - Resolución manual de conflictos (eliminando >>>>, ====, <<<<).  
    - Nuevo commit + push exitoso.  
    - 📸 Captura: Push corregido (Integrante 3)
-   - [Push final del Integrante 3](capturas/integrante32.jpeg)  
+   - ![Push final del Integrante 3](capturas/integrante32.jpeg)  
 
 ## 🚀 Conclusiones
 - Git permite trabajo colaborativo distribuido, pero es común que existan conflictos.  
